@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Search</string>
+    <string name="search_notes">Search notes</string>
+    <string name="add">Add</string>
+    <string name="app_name">Notes</string>
+    <string name="clear">Clear</string>
+    <string name="back">back</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="title_hint">Note Title</string>
+    <string name="placeholder_title">No notes yet</string>
+    <string name="placeholder_content">All your notes show up here</string>
+    <string name="no_results_placeholder_title">No results</string>
+    <string name="no_results_placeholder_content">No results found matching \"%s\"</string>
+    <string name="content_hint">Enter content in here</string>
+</resources>

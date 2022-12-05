@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">?colorSurface</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>
